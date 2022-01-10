@@ -6,4 +6,5 @@
 - Firebase
 
 Instagram-like application, created with React using Firebase as database provider.
+
 Google-signup and realtime updates.
